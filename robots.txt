@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: http://followpop.com.br/sitemap.xml
