@@ -915,6 +915,12 @@ body.mobile-nav-active #mobile-nav-toggle {
   background: linear-gradient(45deg, #1de099, #1dc8cd);
 }
 
+#pricing .pag:active{
+
+  border: none;
+
+}
+
 /* Frequently Asked Questions Section
 --------------------------------*/
 #faq {
