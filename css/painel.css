@@ -1,0 +1,53 @@
+body{
+
+margin: 0px;
+font-family: "Open Sans", sans-serif;
+background: white;
+
+}
+
+.main{
+
+  border-top: 1px white solid;
+  width: 200px;
+  height: 680px;
+  background: linear-gradient(45deg, #1de099, #1dc8cd);
+  margin: 0;
+  padding: 0px;
+  text-align: center;
+
+
+}
+.lista{
+
+  border-top: 1px white solid;
+  text-align: center;
+  margin: 0;
+  padding: 0px;
+}
+
+
+ul ul {
+   display: none;
+   list-style: none;
+
+}
+
+li {
+
+   padding: 3px;
+   list-style: none;
+
+}
+.titulo{
+
+  font-size:15px;
+}
+.sub{
+
+  font-size: 10px;
+}
+
+li:hover ul {
+   display: block;
+}
